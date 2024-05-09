@@ -19,7 +19,7 @@ html{
 }
 
 body {
-  padding: 0 20rem;
+padding-left: 9rem
   padding-top: 10rem;
   font-family: raleway_f, sans-serif;
 }
@@ -42,6 +42,7 @@ h2 {
   outline: none;
   font-size: 20px;
   transition: 0.4s;
+	width:250px;
 }
 
 .active,
@@ -69,6 +70,7 @@ h2 {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   font-size: 15px;
+	width:250px;
 }
 
   
